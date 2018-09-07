@@ -4,7 +4,7 @@ const Header = props => (
   <div className="container-fluid">
     <div className="row text-center">
       <div className="col">
-        <h1>Kitties</h1>
+        <h1>kittens</h1>
       </div>
     </div>
     <div className="row">
