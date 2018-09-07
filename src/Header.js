@@ -10,7 +10,14 @@ const Header = props => (
     <div className="row">
       <div className="col">
         <h2>Developed By: Francisco Rubial</h2>
-        <p>Github: </p>
+        <a
+          className="btn btn-primary mt-1 mb-2"
+          href="https://github.com/franjorub/gatitos"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub
+        </a>
       </div>
     </div>
     <div className="row">
